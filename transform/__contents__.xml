@@ -1,0 +1,63 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Github/transform" version="1" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:47.145-04:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Utopia-web.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:47.835-04:00" modified="2023-06-07T10:59:47.835-04:00" filename="Utopia-web.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-web-main.xql" skip="no" owner="miurena" group="tei" mode="775" created="2023-06-07T10:59:47.843-04:00" modified="2023-06-07T10:59:47.843-04:00" filename="Utopia-web-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-web-module.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:47.846-04:00" modified="2023-06-07T10:59:47.846-04:00" filename="Utopia-web-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-print.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:48.501-04:00" modified="2023-06-07T10:59:48.501-04:00" filename="Utopia-print.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-print-main.xql" skip="no" owner="miurena" group="tei" mode="775" created="2023-06-07T10:59:48.508-04:00" modified="2023-06-07T10:59:48.508-04:00" filename="Utopia-print-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-print-module.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:48.51-04:00" modified="2023-06-07T10:59:48.51-04:00" filename="Utopia-print-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-latex.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:49.309-04:00" modified="2023-06-07T10:59:49.309-04:00" filename="Utopia-latex.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-latex-main.xql" skip="no" owner="miurena" group="tei" mode="775" created="2023-06-07T10:59:49.318-04:00" modified="2023-06-07T10:59:49.318-04:00" filename="Utopia-latex-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-latex-module.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:49.32-04:00" modified="2023-06-07T10:59:49.32-04:00" filename="Utopia-latex-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-epub.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:49.972-04:00" modified="2023-06-07T10:59:49.972-04:00" filename="Utopia-epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-epub-main.xql" skip="no" owner="miurena" group="tei" mode="775" created="2023-06-07T10:59:49.979-04:00" modified="2023-06-07T10:59:49.979-04:00" filename="Utopia-epub-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-epub-module.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:49.981-04:00" modified="2023-06-07T10:59:49.981-04:00" filename="Utopia-epub-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-fo.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:50.513-04:00" modified="2023-06-07T10:59:50.513-04:00" filename="Utopia-fo.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia.css" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:47.841-04:00" modified="2023-06-07T10:59:50.518-04:00" filename="Utopia.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-fo-main.xql" skip="no" owner="miurena" group="tei" mode="775" created="2023-06-07T10:59:50.52-04:00" modified="2023-06-07T10:59:50.52-04:00" filename="Utopia-fo-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Utopia-fo-module.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:50.522-04:00" modified="2023-06-07T10:59:50.522-04:00" filename="Utopia-fo-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-tei.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:50.85-04:00" modified="2023-06-07T10:59:50.85-04:00" filename="docx-tei.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx.css" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:50.852-04:00" modified="2023-06-07T10:59:50.852-04:00" filename="docx.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-tei-main.xql" skip="no" owner="miurena" group="tei" mode="775" created="2023-06-07T10:59:50.853-04:00" modified="2023-06-07T10:59:50.853-04:00" filename="docx-tei-main.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="docx-tei-module.xql" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:50.856-04:00" modified="2023-06-07T10:59:50.856-04:00" filename="docx-tei-module.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

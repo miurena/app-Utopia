@@ -1,0 +1,58 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Github/modules" version="1" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.331-04:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="generate-pm-config.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.355-04:00" modified="2023-06-07T10:59:46.355-04:00" filename="generate-pm-config.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-api.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.353-04:00" modified="2023-06-07T10:59:46.353-04:00" filename="custom-api.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nlp-config.xqm" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.352-04:00" modified="2023-06-07T10:59:46.352-04:00" filename="nlp-config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="navigation.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.35-04:00" modified="2023-06-07T10:59:46.35-04:00" filename="navigation.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="navigation-dbk.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.349-04:00" modified="2023-06-07T10:59:46.349-04:00" filename="navigation-dbk.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.348-04:00" modified="2023-06-07T10:59:46.348-04:00" filename="query.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-api.json" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.347-04:00" modified="2023-06-07T10:59:46.347-04:00" filename="custom-api.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="app.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.346-04:00" modified="2023-06-07T10:59:46.346-04:00" filename="app.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query-db.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.344-04:00" modified="2023-06-07T10:59:46.344-04:00" filename="query-db.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query-tei.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.343-04:00" modified="2023-06-07T10:59:46.343-04:00" filename="query-tei.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="navigation-tei.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.34-04:00" modified="2023-06-07T10:59:46.34-04:00" filename="navigation-tei.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotation-config.xqm" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.338-04:00" modified="2023-06-07T10:59:46.338-04:00" filename="annotation-config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="navigation-jats.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.337-04:00" modified="2023-06-07T10:59:46.337-04:00" filename="navigation-jats.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.336-04:00" modified="2023-06-07T10:59:46.336-04:00" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="facets.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.335-04:00" modified="2023-06-07T10:59:46.335-04:00" filename="facets.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="map.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.333-04:00" modified="2023-06-07T10:59:46.333-04:00" filename="map.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query-jats.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.332-04:00" modified="2023-06-07T10:59:46.332-04:00" filename="query-jats.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pm-config.xql" skip="no" owner="admin" group="dba" mode="644" created="2023-06-07T10:59:50.866-04:00" modified="2023-06-07T10:59:50.866-04:00" filename="pm-config.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="lib" filename="lib"/>
+</collection>

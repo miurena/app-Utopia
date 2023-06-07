@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Github/modules/lib/api" version="1" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.374-04:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="view.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.394-04:00" modified="2023-06-07T10:59:46.394-04:00" filename="view.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="odd.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.392-04:00" modified="2023-06-07T10:59:46.392-04:00" filename="odd.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="caching.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.391-04:00" modified="2023-06-07T10:59:46.391-04:00" filename="caching.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="collection.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.389-04:00" modified="2023-06-07T10:59:46.389-04:00" filename="collection.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dts.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.387-04:00" modified="2023-06-07T10:59:46.387-04:00" filename="dts.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nlp.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.385-04:00" modified="2023-06-07T10:59:46.385-04:00" filename="nlp.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="generate.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.383-04:00" modified="2023-06-07T10:59:46.383-04:00" filename="generate.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="annotations.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.381-04:00" modified="2023-06-07T10:59:46.381-04:00" filename="annotations.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="document.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.379-04:00" modified="2023-06-07T10:59:46.379-04:00" filename="document.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="info.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.377-04:00" modified="2023-06-07T10:59:46.377-04:00" filename="info.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.376-04:00" modified="2023-06-07T10:59:46.376-04:00" filename="search.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

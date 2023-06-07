@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Github/resources/odd" version="1" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:44.036-04:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="teipublisher.odd" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.92-04:00" modified="2023-06-07T10:59:44.92-04:00" filename="teipublisher.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="docx.odd" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.911-04:00" modified="2023-06-07T10:59:44.911-04:00" filename="docx.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Utopia.odd" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.388-04:00" modified="2023-06-07T10:59:44.388-04:00" filename="Utopia.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="annotations.odd" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.939-04:00" modified="2023-06-07T10:59:44.939-04:00" filename="annotations.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="configuration.xml" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.378-04:00" modified="2023-06-07T10:59:44.378-04:00" filename="configuration.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="teipublisher_odds.xsd" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.038-04:00" modified="2023-06-07T10:59:44.038-04:00" filename="teipublisher_odds.xsd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
