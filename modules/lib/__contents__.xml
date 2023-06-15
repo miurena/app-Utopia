@@ -1,30 +1,30 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Github/modules/lib" version="1" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.357-04:00">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Utopia/modules/lib" version="1" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:01.431-04:00">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="api-odd.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.361-04:00" modified="2023-06-07T10:59:46.361-04:00" filename="api-odd.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="on-odd-changed.xql" skip="no" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:01.442-04:00" modified="2023-06-15T15:36:01.442-04:00" filename="on-odd-changed.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="on-odd-changed.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.372-04:00" modified="2023-06-07T10:59:46.372-04:00" filename="on-odd-changed.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="api-dba.xql" skip="no" owner="inmaurena" group="dba" mode="2745" created="2023-06-15T15:36:01.435-04:00" modified="2023-06-15T15:36:01.435-04:00" filename="api-dba.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="api-dba.xql" skip="no" owner="miurena" group="dba" mode="2745" created="2023-06-07T10:59:46.362-04:00" modified="2023-06-07T10:59:46.362-04:00" filename="api-dba.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="api.json" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.432-04:00" modified="2023-06-15T15:36:01.432-04:00" filename="api.json" mimetype="application/json">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="api.json" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.359-04:00" modified="2023-06-07T10:59:46.359-04:00" filename="api.json" mimetype="application/json">
+    <resource type="BinaryResource" name="pages.xql" skip="no" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:01.441-04:00" modified="2023-06-15T15:36:01.441-04:00" filename="pages.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="pages.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.37-04:00" modified="2023-06-07T10:59:46.37-04:00" filename="pages.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="browse.xql" skip="no" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:01.44-04:00" modified="2023-06-15T15:36:01.44-04:00" filename="browse.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="browse.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.368-04:00" modified="2023-06-07T10:59:46.368-04:00" filename="browse.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="api.xql" skip="no" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:01.439-04:00" modified="2023-06-15T15:36:01.439-04:00" filename="api.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="api.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.366-04:00" modified="2023-06-07T10:59:46.366-04:00" filename="api.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="epub.xql" skip="no" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:01.437-04:00" modified="2023-06-15T15:36:01.437-04:00" filename="epub.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="epub.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.365-04:00" modified="2023-06-07T10:59:46.365-04:00" filename="epub.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="util.xql" skip="no" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:01.436-04:00" modified="2023-06-15T15:36:01.436-04:00" filename="util.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="util.xql" skip="no" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.364-04:00" modified="2023-06-07T10:59:46.364-04:00" filename="util.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="api-odd.xql" skip="no" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:01.434-04:00" modified="2023-06-15T15:36:01.434-04:00" filename="api-odd.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
     <subcollection name="api" filename="api"/>

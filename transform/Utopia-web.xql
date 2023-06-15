@@ -1,7 +1,7 @@
 (:~
 
     Transformation module generated from TEI ODD extensions for processing models.
-    ODD: /db/apps/Github/resources/odd/Utopia.odd
+    ODD: /db/apps/Utopia/resources/odd/Utopia.odd
  :)
 xquery version "3.1";
 
@@ -30,7 +30,7 @@ declare function model:transform($options as map(*), $input as node()*) {
         map:merge(($options,
             map {
                 "output": ["web"],
-                "odd": "/db/apps/Github/resources/odd/Utopia.odd",
+                "odd": "/db/apps/Utopia/resources/odd/Utopia.odd",
                 "apply": model:apply#2,
                 "apply-children": model:apply-children#3
             }

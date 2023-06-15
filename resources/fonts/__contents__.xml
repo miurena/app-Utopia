@@ -1,129 +1,129 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Github/resources/fonts" version="1" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:44.96-04:00">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Utopia/resources/fonts" version="1" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:00.599-04:00">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="Junicode.svg" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.694-04:00" modified="2023-06-07T10:59:45.694-04:00" filename="Junicode.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="Junicode.svg" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.039-04:00" modified="2023-06-15T15:36:01.039-04:00" filename="Junicode.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="oswald-v49-latin-ext_latin-regular.svg" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.682-04:00" modified="2023-06-07T10:59:45.682-04:00" filename="oswald-v49-latin-ext_latin-regular.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="oswald-v49-latin-ext_latin-regular.svg" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.031-04:00" modified="2023-06-15T15:36:01.031-04:00" filename="oswald-v49-latin-ext_latin-regular.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="roboto-v30-latin-ext_latin-300.svg" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.669-04:00" modified="2023-06-07T10:59:45.669-04:00" filename="roboto-v30-latin-ext_latin-300.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="roboto-v30-latin-ext_latin-300.svg" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.022-04:00" modified="2023-06-15T15:36:01.022-04:00" filename="roboto-v30-latin-ext_latin-300.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="roboto-v30-latin-ext_latin-regular.svg" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.656-04:00" modified="2023-06-07T10:59:45.656-04:00" filename="roboto-v30-latin-ext_latin-regular.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="roboto-v30-latin-ext_latin-regular.svg" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.015-04:00" modified="2023-06-15T15:36:01.015-04:00" filename="roboto-v30-latin-ext_latin-regular.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="Junicode-BoldItalic.svg" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.576-04:00" modified="2023-06-07T10:59:45.576-04:00" filename="Junicode-BoldItalic.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="Junicode-BoldItalic.svg" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.963-04:00" modified="2023-06-15T15:36:00.963-04:00" filename="Junicode-BoldItalic.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="roboto-v30-latin-ext_latin-300italic.svg" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.961-04:00" modified="2023-06-07T10:59:44.961-04:00" filename="roboto-v30-latin-ext_latin-300italic.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="roboto-v30-latin-ext_latin-300italic.svg" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.602-04:00" modified="2023-06-15T15:36:00.602-04:00" filename="roboto-v30-latin-ext_latin-300italic.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="Junicode-Bold.svg" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.408-04:00" modified="2023-06-07T10:59:45.408-04:00" filename="Junicode-Bold.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="Junicode-Bold.svg" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.863-04:00" modified="2023-06-15T15:36:00.863-04:00" filename="Junicode-Bold.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="Junicode-Italic.svg" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.011-04:00" modified="2023-06-07T10:59:45.011-04:00" filename="Junicode-Italic.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="Junicode-Italic.svg" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.655-04:00" modified="2023-06-15T15:36:00.655-04:00" filename="Junicode-Italic.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="roboto-v30-latin-ext_latin-italic.svg" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.99-04:00" modified="2023-06-07T10:59:44.99-04:00" filename="roboto-v30-latin-ext_latin-italic.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="roboto-v30-latin-ext_latin-italic.svg" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.633-04:00" modified="2023-06-15T15:36:00.633-04:00" filename="roboto-v30-latin-ext_latin-italic.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode-Bold.eot" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.565-04:00" modified="2023-06-07T10:59:45.565-04:00" filename="Junicode-Bold.eot" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="Junicode-Bold.eot" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.955-04:00" modified="2023-06-15T15:36:00.955-04:00" filename="Junicode-Bold.eot" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300italic.ttf" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.563-04:00" modified="2023-06-07T10:59:45.563-04:00" filename="roboto-v30-latin-ext_latin-300italic.ttf" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300italic.ttf" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.954-04:00" modified="2023-06-15T15:36:00.954-04:00" filename="roboto-v30-latin-ext_latin-300italic.ttf" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode-Italic.ttf" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.554-04:00" modified="2023-06-07T10:59:45.554-04:00" filename="Junicode-Italic.ttf" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="Junicode-Italic.ttf" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.946-04:00" modified="2023-06-15T15:36:00.946-04:00" filename="Junicode-Italic.ttf" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-regular.woff" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.551-04:00" modified="2023-06-07T10:59:45.551-04:00" filename="roboto-v30-latin-ext_latin-regular.woff" mimetype="application/font-woff">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-regular.woff" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.944-04:00" modified="2023-06-15T15:36:00.944-04:00" filename="roboto-v30-latin-ext_latin-regular.woff" mimetype="application/font-woff">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300italic.woff" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.549-04:00" modified="2023-06-07T10:59:45.549-04:00" filename="roboto-v30-latin-ext_latin-300italic.woff" mimetype="application/font-woff">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300italic.woff" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.943-04:00" modified="2023-06-15T15:36:00.943-04:00" filename="roboto-v30-latin-ext_latin-300italic.woff" mimetype="application/font-woff">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-regular.ttf" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.548-04:00" modified="2023-06-07T10:59:45.548-04:00" filename="roboto-v30-latin-ext_latin-regular.ttf" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-regular.ttf" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.941-04:00" modified="2023-06-15T15:36:00.941-04:00" filename="roboto-v30-latin-ext_latin-regular.ttf" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="oswald-v49-latin-ext_latin-regular.woff" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.546-04:00" modified="2023-06-07T10:59:45.546-04:00" filename="oswald-v49-latin-ext_latin-regular.woff" mimetype="application/font-woff">
+    <resource type="BinaryResource" name="oswald-v49-latin-ext_latin-regular.woff" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.941-04:00" modified="2023-06-15T15:36:00.941-04:00" filename="oswald-v49-latin-ext_latin-regular.woff" mimetype="application/font-woff">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode-Italic.woff" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.538-04:00" modified="2023-06-07T10:59:45.538-04:00" filename="Junicode-Italic.woff" mimetype="application/font-woff">
+    <resource type="BinaryResource" name="Junicode-Italic.woff" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.936-04:00" modified="2023-06-15T15:36:00.936-04:00" filename="Junicode-Italic.woff" mimetype="application/font-woff">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode-BoldItalic.ttf" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.532-04:00" modified="2023-06-07T10:59:45.532-04:00" filename="Junicode-BoldItalic.ttf" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="Junicode-BoldItalic.ttf" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.933-04:00" modified="2023-06-15T15:36:00.933-04:00" filename="Junicode-BoldItalic.ttf" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode-Bold.ttf" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.997-04:00" modified="2023-06-07T10:59:45.997-04:00" filename="Junicode-Bold.ttf" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="Junicode-Bold.ttf" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.2-04:00" modified="2023-06-15T15:36:01.2-04:00" filename="Junicode-Bold.ttf" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode.woff" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.989-04:00" modified="2023-06-07T10:59:45.989-04:00" filename="Junicode.woff" mimetype="application/font-woff">
+    <resource type="BinaryResource" name="Junicode.woff" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.195-04:00" modified="2023-06-15T15:36:01.195-04:00" filename="Junicode.woff" mimetype="application/font-woff">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-italic.eot" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.987-04:00" modified="2023-06-07T10:59:45.987-04:00" filename="roboto-v30-latin-ext_latin-italic.eot" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-italic.eot" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.191-04:00" modified="2023-06-15T15:36:01.191-04:00" filename="roboto-v30-latin-ext_latin-italic.eot" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300italic.eot" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.692-04:00" modified="2023-06-07T10:59:45.692-04:00" filename="roboto-v30-latin-ext_latin-300italic.eot" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300italic.eot" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.038-04:00" modified="2023-06-15T15:36:01.038-04:00" filename="roboto-v30-latin-ext_latin-300italic.eot" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode-Bold.woff" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.679-04:00" modified="2023-06-07T10:59:45.679-04:00" filename="Junicode-Bold.woff" mimetype="application/font-woff">
+    <resource type="BinaryResource" name="Junicode-Bold.woff" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.029-04:00" modified="2023-06-15T15:36:01.029-04:00" filename="Junicode-Bold.woff" mimetype="application/font-woff">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode-Italic.eot" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.646-04:00" modified="2023-06-07T10:59:45.646-04:00" filename="Junicode-Italic.eot" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="Junicode-Italic.eot" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.008-04:00" modified="2023-06-15T15:36:01.008-04:00" filename="Junicode-Italic.eot" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="font.css" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.575-04:00" modified="2023-06-07T10:59:45.575-04:00" filename="font.css" mimetype="text/css">
+    <resource type="BinaryResource" name="font.css" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.962-04:00" modified="2023-06-15T15:36:00.962-04:00" filename="font.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-italic.woff2" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.574-04:00" modified="2023-06-07T10:59:45.574-04:00" filename="roboto-v30-latin-ext_latin-italic.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-italic.woff2" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.961-04:00" modified="2023-06-15T15:36:00.961-04:00" filename="roboto-v30-latin-ext_latin-italic.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-italic.ttf" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.572-04:00" modified="2023-06-07T10:59:45.572-04:00" filename="roboto-v30-latin-ext_latin-italic.ttf" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-italic.ttf" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.96-04:00" modified="2023-06-15T15:36:00.96-04:00" filename="roboto-v30-latin-ext_latin-italic.ttf" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode-BoldItalic.woff" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.569-04:00" modified="2023-06-07T10:59:45.569-04:00" filename="Junicode-BoldItalic.woff" mimetype="application/font-woff">
+    <resource type="BinaryResource" name="Junicode-BoldItalic.woff" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.958-04:00" modified="2023-06-15T15:36:00.958-04:00" filename="Junicode-BoldItalic.woff" mimetype="application/font-woff">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300.ttf" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.552-04:00" modified="2023-06-07T10:59:45.552-04:00" filename="roboto-v30-latin-ext_latin-300.ttf" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300.ttf" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.945-04:00" modified="2023-06-15T15:36:00.945-04:00" filename="roboto-v30-latin-ext_latin-300.ttf" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode.eot" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.975-04:00" modified="2023-06-07T10:59:44.975-04:00" filename="Junicode.eot" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="Junicode.eot" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.62-04:00" modified="2023-06-15T15:36:00.62-04:00" filename="Junicode.eot" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-italic.woff" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.974-04:00" modified="2023-06-07T10:59:44.974-04:00" filename="roboto-v30-latin-ext_latin-italic.woff" mimetype="application/font-woff">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-italic.woff" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.619-04:00" modified="2023-06-15T15:36:00.619-04:00" filename="roboto-v30-latin-ext_latin-italic.woff" mimetype="application/font-woff">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="oswald-v49-latin-ext_latin-regular.eot" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.972-04:00" modified="2023-06-07T10:59:44.972-04:00" filename="oswald-v49-latin-ext_latin-regular.eot" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="oswald-v49-latin-ext_latin-regular.eot" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.617-04:00" modified="2023-06-15T15:36:00.617-04:00" filename="oswald-v49-latin-ext_latin-regular.eot" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode.ttf" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.28-04:00" modified="2023-06-07T10:59:45.28-04:00" filename="Junicode.ttf" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="Junicode.ttf" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.855-04:00" modified="2023-06-15T15:36:00.855-04:00" filename="Junicode.ttf" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300italic.woff2" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.276-04:00" modified="2023-06-07T10:59:45.276-04:00" filename="roboto-v30-latin-ext_latin-300italic.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300italic.woff2" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.854-04:00" modified="2023-06-15T15:36:00.854-04:00" filename="roboto-v30-latin-ext_latin-300italic.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300.woff2" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.273-04:00" modified="2023-06-07T10:59:45.273-04:00" filename="roboto-v30-latin-ext_latin-300.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300.woff2" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.852-04:00" modified="2023-06-15T15:36:00.852-04:00" filename="roboto-v30-latin-ext_latin-300.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="oswald-v49-latin-ext_latin-regular.ttf" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.271-04:00" modified="2023-06-07T10:59:45.271-04:00" filename="oswald-v49-latin-ext_latin-regular.ttf" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="oswald-v49-latin-ext_latin-regular.ttf" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.851-04:00" modified="2023-06-15T15:36:00.851-04:00" filename="oswald-v49-latin-ext_latin-regular.ttf" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-regular.woff2" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.268-04:00" modified="2023-06-07T10:59:45.268-04:00" filename="roboto-v30-latin-ext_latin-regular.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-regular.woff2" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.849-04:00" modified="2023-06-15T15:36:00.849-04:00" filename="roboto-v30-latin-ext_latin-regular.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300.eot" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.009-04:00" modified="2023-06-07T10:59:45.009-04:00" filename="roboto-v30-latin-ext_latin-300.eot" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300.eot" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.654-04:00" modified="2023-06-15T15:36:00.654-04:00" filename="roboto-v30-latin-ext_latin-300.eot" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-regular.eot" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.007-04:00" modified="2023-06-07T10:59:45.007-04:00" filename="roboto-v30-latin-ext_latin-regular.eot" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-regular.eot" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.652-04:00" modified="2023-06-15T15:36:00.652-04:00" filename="roboto-v30-latin-ext_latin-regular.eot" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300.woff" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.005-04:00" modified="2023-06-07T10:59:45.005-04:00" filename="roboto-v30-latin-ext_latin-300.woff" mimetype="application/font-woff">
+    <resource type="BinaryResource" name="roboto-v30-latin-ext_latin-300.woff" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.651-04:00" modified="2023-06-15T15:36:00.651-04:00" filename="roboto-v30-latin-ext_latin-300.woff" mimetype="application/font-woff">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Junicode-BoldItalic.eot" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.001-04:00" modified="2023-06-07T10:59:45.001-04:00" filename="Junicode-BoldItalic.eot" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="Junicode-BoldItalic.eot" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.646-04:00" modified="2023-06-15T15:36:00.646-04:00" filename="Junicode-BoldItalic.eot" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="oswald-v49-latin-ext_latin-regular.woff2" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:45.529-04:00" modified="2023-06-07T10:59:45.529-04:00" filename="oswald-v49-latin-ext_latin-regular.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="oswald-v49-latin-ext_latin-regular.woff2" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.932-04:00" modified="2023-06-15T15:36:00.932-04:00" filename="oswald-v49-latin-ext_latin-regular.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

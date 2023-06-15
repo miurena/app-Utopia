@@ -1,36 +1,36 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Github/templates" version="1" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:46.005-04:00">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Utopia/templates" version="1" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:01.205-04:00">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="odd-editor.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.205-04:00" modified="2023-06-07T10:59:46.205-04:00" filename="odd-editor.html" mimetype="text/html">
+    <resource type="XMLResource" name="odd-editor.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.321-04:00" modified="2023-06-15T15:36:01.321-04:00" filename="odd-editor.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="search.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.201-04:00" modified="2023-06-07T10:59:46.201-04:00" filename="search.html" mimetype="text/html">
+    <resource type="XMLResource" name="search.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.319-04:00" modified="2023-06-15T15:36:01.319-04:00" filename="search.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="menu-drawer.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.198-04:00" modified="2023-06-07T10:59:46.198-04:00" filename="menu-drawer.html" mimetype="text/html">
+    <resource type="XMLResource" name="menu-drawer.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.317-04:00" modified="2023-06-15T15:36:01.317-04:00" filename="menu-drawer.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="toolbar.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.195-04:00" modified="2023-06-07T10:59:46.195-04:00" filename="toolbar.html" mimetype="text/html">
+    <resource type="XMLResource" name="toolbar.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.315-04:00" modified="2023-06-15T15:36:01.315-04:00" filename="toolbar.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="menu.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.19-04:00" modified="2023-06-07T10:59:46.19-04:00" filename="menu.html" mimetype="text/html">
+    <resource type="XMLResource" name="menu.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.313-04:00" modified="2023-06-15T15:36:01.313-04:00" filename="menu.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="documents.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.185-04:00" modified="2023-06-07T10:59:46.185-04:00" filename="documents.html" mimetype="text/html">
+    <resource type="XMLResource" name="documents.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.311-04:00" modified="2023-06-15T15:36:01.311-04:00" filename="documents.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="error-page.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.182-04:00" modified="2023-06-07T10:59:46.182-04:00" filename="error-page.html" mimetype="text/html">
+    <resource type="XMLResource" name="error-page.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.309-04:00" modified="2023-06-15T15:36:01.309-04:00" filename="error-page.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="index.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.173-04:00" modified="2023-06-07T10:59:46.173-04:00" filename="index.html" mimetype="text/html">
+    <resource type="XMLResource" name="index.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.304-04:00" modified="2023-06-15T15:36:01.304-04:00" filename="index.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="print-preview.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.007-04:00" modified="2023-06-07T10:59:46.007-04:00" filename="print-preview.html" mimetype="text/html">
+    <resource type="XMLResource" name="print-preview.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.206-04:00" modified="2023-06-15T15:36:01.206-04:00" filename="print-preview.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="drawer.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.211-04:00" modified="2023-06-07T10:59:46.211-04:00" filename="drawer.html" mimetype="text/html">
+    <resource type="XMLResource" name="drawer.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.325-04:00" modified="2023-06-15T15:36:01.325-04:00" filename="drawer.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="api.html" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:46.209-04:00" modified="2023-06-07T10:59:46.209-04:00" filename="api.html" mimetype="text/html">
+    <resource type="XMLResource" name="api.html" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:01.323-04:00" modified="2023-06-15T15:36:01.323-04:00" filename="api.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
     <subcollection name="pages" filename="pages"/>

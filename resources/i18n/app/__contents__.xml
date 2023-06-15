@@ -1,6 +1,6 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Github/resources/i18n/app" version="1" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:44.957-04:00">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Utopia/resources/i18n/app" version="1" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:00.596-04:00">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="en.json" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.958-04:00" modified="2023-06-07T10:59:44.958-04:00" filename="en.json" mimetype="application/json">
+    <resource type="BinaryResource" name="en.json" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.598-04:00" modified="2023-06-15T15:36:00.598-04:00" filename="en.json" mimetype="application/json">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

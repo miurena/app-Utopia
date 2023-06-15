@@ -1,6 +1,6 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Github/resources/scripts/annotations" version="1" owner="miurena" group="tei" mode="755" created="2023-06-07T10:59:44.951-04:00">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/Utopia/resources/scripts/annotations" version="1" owner="inmaurena" group="tei" mode="755" created="2023-06-15T15:36:00.588-04:00">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="annotations.js" skip="no" owner="miurena" group="tei" mode="644" created="2023-06-07T10:59:44.953-04:00" modified="2023-06-07T10:59:44.953-04:00" filename="annotations.js" mimetype="application/javascript">
+    <resource type="BinaryResource" name="annotations.js" skip="no" owner="inmaurena" group="tei" mode="644" created="2023-06-15T15:36:00.591-04:00" modified="2023-06-15T15:36:00.591-04:00" filename="annotations.js" mimetype="application/javascript">
         <acl entries="0" version="1"/>
     </resource>
 </collection>
