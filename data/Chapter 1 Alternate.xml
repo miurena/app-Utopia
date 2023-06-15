@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Alternate Digital Edition of the 1637 Spanish translation of Thomas More's Utopia</title>
+            <editor> M.ª Inmaculada Ureña Asensio</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoding Chapter 1 for my thesis dissertation</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The bibliographical resources are:
+               Utopia de Thomas Moro (1637) translated by Gerónimo de Medinilla. 
+               The Utopia of Sir Thomas More (1895) edited by Joseph Lupton. Bilingual edition (Latin and sixteenth-century English translation)</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+            <div type="base">
+               <head type="title">RELACION, QVE HIZO Rafael Hithlodeo, excelẽte varõ, del felice
+                  eſtado dela republica de VTOPIA, ordenada por Thomas Moro, Vizcõde,
+                  Ciudadano de la inſigne Ciudad de Londres en Inglaterra. </head>
+               <head type="chapter">DESCRIPCION DE LA ISLA. Cap. I</head>
+               <div type="chapter" n="1">
+                  <ab><pb n="I"/><seg n="1.1">La Isla de los Vtopienſes, en el medio ſe eſtiẽnde a docientos mil paſſos, i por larguiſsimo eſpacio no ſe eſtrecha conſiderablement; mas alfin de entrambos aidos cabos ſe va enſangoſtando: i eſtas puntas en circunferẽcia de cinquenta mil paſſos, dexan la Isla en forma de Luna nueva.</seg><seg n="1.2"> Eſtas extremidades convatidas del mar ſe hallan diſtantes la una dela otra otros onze mil; i el mar defendido de los vientos.</seg><seg n="1.3"> Entre eſtos braços forma un apacible lago, dexando un puerto acomodado, deſde donde por ſu oportunidad embian ſus flotas aotras Provincias, i Paiſes.</seg> </ab>
+               </div>
+            </div>
+            <div type="modernization">
+               <head type="title">
+                  Relación que hizo Rafael Hithlodeo, excelente varón, del feliz estado de la república de Utopia,
+                  ordenada por Thomas Moro, vizconde, ciudadano de la insigne ciudad de Londres en Inglaterra.
+               </head>
+               <head type="chapter"> Descripción de la isla. Capítulo I </head>
+               <div type="chapter" n="1">
+                  <ab><seg n="1.1"> La Isla de los Utopienses en el medio se extiende a doscientos mil pasos, y por larguísimo espacio no se estrecha considerablemente; mas al fin de entre ambos cabos se va ensangostando, y estas puntas en circunferencia de cincuenta mil pasos dejan la Isla en forma de Luna nueva.</seg><seg n="1.2"> Estas extremidades combatidas del mar se hallan distantes la una de la otra otros once mil y el mar defendido de los vientos.</seg><seg n="1.3"> Entre estos brazos forma un apacible lago, dejando un puerto acomodado desde donde, por su oportunidad, envían sus flotas a otras provincias y países.</seg></ab>
+               </div>
+            </div>
+            <div type="original">
+               <head type="title">Sermonis quem Raphael Hythlodaeus de optimo reipublicae statu habuit, liber secundus,
+                  per Thomam Morum ciuem et uicecomitem londinensem.</head>
+               <head type="chapter"> *No title* </head>
+               <div type="chapter" n="1">
+                  <ab><seg n="1.1"> Vtopiensium insula in media sui parte (nam hac latissima est) millia passuum ducenta porrigitur, magnumque per insulae spatium non multo angustior, fines uersus paulatim utrinque tenuatur. hi uelut circunducti circino quingentorum ambitu millium, insulam totam in lunae speciem renascentis effigiant.</seg><seg n="1.2"> Cuius cornua fretum interfluens millibus passuum plus minus undecim dirimit, ac per ingens inane diffusum, circumiectu undique terrae prohibitis uentis,</seg><seg n="1.3"> uasti in morem lacus, stagnans magis quam saeuiens, omnem prope eius terrae aluum pro portu facit, magnoque hominum usu naues quaqua uersus transmittit.</seg></ab>
+               </div>
+            </div>
+            <div type="translation">
+               <head type="title">The second Boke of the communication of Raphael
+                  Hythlodaye, concernyng the best state of a common wealthe: conteynyng the discription of Vtopia, with a large declaration of the
+                  Godly gouernement, and of all the good lawes and orders of the same Ilande.</head>
+               <head type="chapter"> *No title* </head>
+               <div type="chapter" n="1">
+                  <ab><seg n="1.1"> The Ilande of Vtopia conteyneth in breadthe in the myddell part of it (for there it is brodest) CC miles. Whiche bredthe continueth through the moste parte of the lande, sauyng that by lytle and lytle it commeth in and waxeth narrower towardes both the endes. Whiche fetchynge about a circuite or compasse of vc myles, do fassion the hole Ilande lyke to the newe mone.</seg><seg n="1.2"> Betwene thys two corners the sea runneth in, diuydyng them a sonder by the distaunce of xi miles or there aboutes, and there surmounteth into a large and wyde sea, which, by reason that the lande of euery syde compasseth it about, and shiltreth it from the windes,</seg> <seg n="1.3"> uasti in morem lacus, stagnans magis quam saeuiens, omnem prope eius terrae aluum pro portu facit, magnoque hominum usu naues quaqua uersus transmittit.</seg></ab>
+               </div>   
+            </div>
+      </body>
+   </text>
+</TEI>
