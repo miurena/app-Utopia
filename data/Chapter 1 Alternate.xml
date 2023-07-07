@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -18,42 +17,106 @@
    </teiHeader>
    <text>
       <body>
-            <div type="base">
-               <head type="title">RELACION, QVE HIZO Rafael Hithlodeo, excelẽte varõ, del felice
-                  eſtado dela republica de VTOPIA, ordenada por Thomas Moro, Vizcõde,
-                  Ciudadano de la inſigne Ciudad de Londres en Inglaterra. </head>
+         <div type="base">
+            <head type="title">RELACION, QVE HIZO Rafael Hithlodeo, excelẽte varõ, del felice
+               eſtado dela republica de VTOPIA, ordenada por Thomas Moro, Vizcõde,
+               Ciudadano de la inſigne Ciudad de Londres en Inglaterra. </head>
+            <div type="Chapter" n="1">
                <head type="chapter">DESCRIPCION DE LA ISLA. Cap. I</head>
-               <div type="chapter" n="1">
-                  <ab><pb n="I"/><seg n="1.1">La Isla de los Vtopienſes, en el medio ſe eſtiẽnde a docientos mil paſſos, i por larguiſsimo eſpacio no ſe eſtrecha conſiderablement; mas alfin de entrambos aidos cabos ſe va enſangoſtando: i eſtas puntas en circunferẽcia de cinquenta mil paſſos, dexan la Isla en forma de Luna nueva.</seg><seg n="1.2"> Eſtas extremidades convatidas del mar ſe hallan diſtantes la una dela otra otros onze mil; i el mar defendido de los vientos.</seg><seg n="1.3"> Entre eſtos braços forma un apacible lago, dexando un puerto acomodado, deſde donde por ſu oportunidad embian ſus flotas aotras Provincias, i Paiſes.</seg> </ab>
-               </div>
+               <ab>
+                  <pb n="I"/>
+                  <seg n="1.1">La Isla de los Vtopienſes, en el medio ſe eſtiẽnde a docientos mil paſſos, i por larguiſsimo eſpacio no ſe eſtrecha conſiderablement; mas alfin de entrambos aidos cabos ſe va enſangoſtando: i eſtas puntas en circunferẽcia de cinquenta mil paſſos, dexan la Isla en forma de Luna nueva.</seg>
+                  <seg n="1.2"> Eſtas extremidades convatidas del mar ſe hallan diſtantes la una dela otra otros onze mil; i el mar defendido de los vientos.</seg> </ab>
             </div>
-            <div type="modernization">
-               <head type="title">
-                  Relación que hizo Rafael Hithlodeo, excelente varón, del feliz estado de la república de Utopia,
-                  ordenada por Thomas Moro, vizconde, ciudadano de la insigne ciudad de Londres en Inglaterra.
-               </head>
+            <div type="Chapter" n="2">
+               <head type="chapter"> capitulo II </head>
+               <ab>
+                  <pb n="IIv"/>
+                  <seg n="2.1">EL que à viſto una de aquellas Ciudades las ha  viſto todas, tanto ſon ſemejantes las unas cõ  las otras, donde la diſpoſiciõ del ſitio lo conſiẽte,   hare relacion de una, bien que no importe mas  deſcrebir eſta, que aquella; ſin embargo diferir  rire de Amauroto, por ſer mas digna,i tener den  tro de ſi el Senado, i de todas la mas ennobleci  da, i de quien yo me hallo con mayores noticias,  por aver morado en ella cinco años.</seg>
+               </ab>
+            </div>
+            <div type="Chapter" n="3">
+               <ab>
+                  <pb n="Xr"/>
+                  <seg n="3.1">test!</seg>
+               </ab>
+            </div>
+         </div>
+         <div type="modernization">
+            <head type="title">
+               Relación que hizo Rafael Hithlodeo, excelente varón, del feliz estado de la república de Utopia,
+               ordenada por Thomas Moro, vizconde, ciudadano de la insigne ciudad de Londres en Inglaterra.
+            </head>
+            <div type="Chapter" n="1">
                <head type="chapter"> Descripción de la isla. Capítulo I </head>
-               <div type="chapter" n="1">
-                  <ab><seg n="1.1"> La Isla de los Utopienses en el medio se extiende a doscientos mil pasos, y por larguísimo espacio no se estrecha considerablemente; mas al fin de entre ambos cabos se va ensangostando, y estas puntas en circunferencia de cincuenta mil pasos dejan la Isla en forma de Luna nueva.</seg><seg n="1.2"> Estas extremidades combatidas del mar se hallan distantes la una de la otra otros once mil y el mar defendido de los vientos.</seg><seg n="1.3"> Entre estos brazos forma un apacible lago, dejando un puerto acomodado desde donde, por su oportunidad, envían sus flotas a otras provincias y países.</seg></ab>
-               </div>
+               <ab>
+                  <seg n="1.1">  La Isla de los Utopienses en el <placeName>medio </placeName> se extiende a doscientos mil pasos, y por larguísimo espacio no se estrecha considerablemente; mas al fin de entre ambos cabos se va ensangostando, y estas puntas en circunferencia de cincuenta mil pasos dejan la Isla en forma de Luna nueva.</seg>
+                  <seg n="1.2"> Estas extremidades combatidas del mar se hallan distantes la una de la otra otros once mil y el mar defendido de los vientos.</seg>
+               </ab>
             </div>
-            <div type="original">
-               <head type="title">Sermonis quem Raphael Hythlodaeus de optimo reipublicae statu habuit, liber secundus,
-                  per Thomam Morum ciuem et uicecomitem londinensem.</head>
+            <div type="Chapter" n="2">
+               <head type="chapter"> Chapter 2 </head>
+               <ab>
+                  <pb n="IIv"/>
+                  <seg n="2.1">El que ha visto una de aquellas ciudades las ha visto todas.</seg>
+               </ab>
+            </div>
+            <div type="Chapter" n="3">
+               <ab>
+                  <pb n="Xr"/>
+                  <seg n="3.1">test!</seg>
+               </ab>
+            </div>
+         </div>
+         <div type="original">
+            <head type="title">Sermonis quem Raphael Hythlodaeus de optimo reipublicae statu habuit, liber secundus,
+               per Thomam Morum ciuem et uicecomitem londinensem.</head>
+            <div type="Chapter" n="1">
                <head type="chapter"> *No title* </head>
-               <div type="chapter" n="1">
-                  <ab><seg n="1.1"> Vtopiensium insula in media sui parte (nam hac latissima est) millia passuum ducenta porrigitur, magnumque per insulae spatium non multo angustior, fines uersus paulatim utrinque tenuatur. hi uelut circunducti circino quingentorum ambitu millium, insulam totam in lunae speciem renascentis effigiant.</seg><seg n="1.2"> Cuius cornua fretum interfluens millibus passuum plus minus undecim dirimit, ac per ingens inane diffusum, circumiectu undique terrae prohibitis uentis,</seg><seg n="1.3"> uasti in morem lacus, stagnans magis quam saeuiens, omnem prope eius terrae aluum pro portu facit, magnoque hominum usu naues quaqua uersus transmittit.</seg></ab>
-               </div>
+               <ab>
+                  <seg n="1.1"> Vtopiensium insula in media sui parte (nam hac latissima est) millia passuum ducenta porrigitur, magnumque per insulae spatium non multo angustior, fines uersus paulatim utrinque tenuatur. hi uelut circunducti circino quingentorum ambitu millium, insulam totam in lunae speciem renascentis effigiant.</seg>
+                  <seg n="1.2"> Cuius cornua fretum interfluens millibus passuum plus minus undecim dirimit, ac per ingens inane diffusum, circumiectu undique terrae prohibitis uentis,</seg>
+               </ab>
             </div>
-            <div type="translation">
-               <head type="title">The second Boke of the communication of Raphael
-                  Hythlodaye, concernyng the best state of a common wealthe: conteynyng the discription of Vtopia, with a large declaration of the
-                  Godly gouernement, and of all the good lawes and orders of the same Ilande.</head>
+            <div type="Chapter" n="2">
+               <head type="chapter"> Capitulo 2 </head>
+               <ab>
+                  <pb n="IIv"/>
+                  <seg n="2.1">VRBium qui unam norit, omnes nouerit: ita sunt inter se (qua­tenus loci natura non obstat) omnino similes.</seg>
+               </ab>
+            </div>
+            <div type="Chapter" n="3">
+               <ab>
+                  <pb n="Xr"/>
+                  <seg n="3.1">test!</seg>
+               </ab>
+            </div>
+         </div>
+         <div type="translation">
+            <head type="title">The second Boke of the communication of Raphael
+               Hythlodaye, concernyng the best state of a common wealthe: conteynyng the discription of Vtopia, with a large declaration of the
+               Godly gouernement, and of all the good lawes and orders of the same Ilande.</head>
+            <div type="Chapter" n="1">
                <head type="chapter"> *No title* </head>
-               <div type="chapter" n="1">
-                  <ab><seg n="1.1"> The Ilande of Vtopia conteyneth in breadthe in the myddell part of it (for there it is brodest) CC miles. Whiche bredthe continueth through the moste parte of the lande, sauyng that by lytle and lytle it commeth in and waxeth narrower towardes both the endes. Whiche fetchynge about a circuite or compasse of vc myles, do fassion the hole Ilande lyke to the newe mone.</seg><seg n="1.2"> Betwene thys two corners the sea runneth in, diuydyng them a sonder by the distaunce of xi miles or there aboutes, and there surmounteth into a large and wyde sea, which, by reason that the lande of euery syde compasseth it about, and shiltreth it from the windes,</seg> <seg n="1.3"> uasti in morem lacus, stagnans magis quam saeuiens, omnem prope eius terrae aluum pro portu facit, magnoque hominum usu naues quaqua uersus transmittit.</seg></ab>
-               </div>   
+               <ab>
+                  <seg n="1.1"> The Ilande of Vtopia conteyneth in breadthe in the myddell part of it (for there it is brodest) CC miles. Whiche bredthe continueth through the moste parte of the lande, sauyng that by lytle and lytle it commeth in and waxeth narrower towardes both the endes. Whiche fetchynge about a circuite or compasse of vc myles, do fassion the hole Ilande lyke to the newe mone.</seg>
+                  <seg n="1.2"> Betwene thys two corners the sea runneth in, diuydyng them a sonder by the distaunce of xi miles or there aboutes, and there surmounteth into a large and wyde sea, which, by reason that the lande of euery syde compasseth it about, and shiltreth it from the windes,</seg>
+               </ab>
             </div>
+            <div type="Chapter" n="2">
+               <head type="chapter"> Chapter 2 </head>
+               <ab>
+                  <pb n="IIv"/>
+                  <seg n="2.1">[1] AS for their Cyties, he that knoweth one of them knoweth them all: they be all so lyke one to an other, as ferfurth as the nature of the place permytteth.</seg>
+               </ab>
+            </div>
+            <div type="Chapter" n="3">
+               <ab>
+                  <pb n="Xr"/>
+                  <seg n="3.1">test!</seg>
+               </ab>
+            </div>
+         </div>
       </body>
    </text>
 </TEI>
